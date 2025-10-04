@@ -26,7 +26,9 @@ To run these notebooks locally, you need:
 
 You can install the required library using pip:
 
+```bash
 pip install numpy
+```
 
 
 ## 🚀 Getting Started
@@ -35,16 +37,21 @@ pip install numpy
 
 ```bash
 git clone https://github.com/MiteshBhoir/Numpy-Learning.git
+```
 
 
 2. **Navigate to the directory:**
 
+```bash
 cd Numpy-Learning
+```
 
 
 3. **Launch Jupyter Notebook/Lab:**
 
+```bash
 jupyter notebook
+```
 
 
 4. Click on any of the `.ipynb` files to start learning and executing the code!
