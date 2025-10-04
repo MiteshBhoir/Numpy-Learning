@@ -25,3 +25,35 @@ To run these notebooks locally, you need:
 3. The **NumPy** library:
 
 You can install the required library using pip:
+
+pip install numpy
+
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+
+git clone https://github.com/MiteshBhoir/Numpy-Learning.git
+
+
+2. **Navigate to the directory:**
+
+cd Numpy-Learning
+
+
+3. **Launch Jupyter Notebook/Lab:**
+
+jupyter notebook
+
+
+4. Click on any of the `.ipynb` files to start learning and executing the code!
+
+## 💡 How to Use
+
+* **For Beginners:** Start with `numpy_1.ipynb` to build a solid foundation on array creation and attributes.
+
+* **Intermediate Users:** Move to `Numpy_2_indexing.ipynb` to master powerful techniques like slicing, boolean indexing, and copying.
+
+* **Practice:** Use `exersises .ipynb` to test your knowledge against real-world data manipulation and logic problems.
+
+Enjoy your journey into scientific computing with NumPy
